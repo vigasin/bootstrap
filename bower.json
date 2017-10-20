@@ -1,0 +1,9 @@
+{
+  "name": "angular-bootstrap",
+  "version": "1.2.5-href",
+  "license": "MIT",
+  "main": "./dist/angular-bootstrap.1.2.5-href.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
