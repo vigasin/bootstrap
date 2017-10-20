@@ -2,7 +2,7 @@
   "name": "angular-bootstrap",
   "version": "1.2.5-href",
   "license": "MIT",
-  "main": "./dist/angular-bootstrap.1.2.5-href.js",
+  "main": "./dist/ui-bootstrap-tpls-1.2.5-href.js",
   "ignore": [],
   "dependencies": {
   }
